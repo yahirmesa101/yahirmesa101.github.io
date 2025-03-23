@@ -63,20 +63,22 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: TikTok
+        link: https://www.tiktok.com/@andersonmesa2004
         # link_text: Project Website
         additional_links:
           - title: sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            icon: fab fa-tiktok
+            url: https://www.tiktok.com/@andersonmesa2004
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Engaging & Growing an Online Audience as a Content Creator & Community Builder
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way of learning <mark>React</mark> and it has since grown into a fully-fledged app. I have learned many skills through this, and I'm very proud of having this in my portfolio. If you don't have a project as awesome as this, I would advise you to make one.
+          Through TikTok, I share content that reflects my interests and passions, building a community of like-minded individuals.  
+          By engaging with my audience through creative videos, discussions, and trends, I foster a space where people connect, learn, and enjoy meaningful interactions.  
+          With a growing follower base, I focus on authenticity, engagement, and consistency—key factors in building a strong digital presence.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
