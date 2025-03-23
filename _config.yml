@@ -32,8 +32,8 @@ darkmode: false
 # Additional icon links
 additional_links:
 - title: tiktok.com
-  icon: fas fa-tiktok
-#  url: https://www.itsgoingto.be
+  icon: fa fa-tiktok
+  url: https://www.tiktok.com/@andersonmesa2004
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -68,7 +68,7 @@ content:
         # link_text: Project Website
         additional_links:
           - title: sproogen/modern-resume-theme
-            icon: fab fa-tiktok
+            icon: fa fa-tiktok
             url: https://www.tiktok.com/@andersonmesa2004
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
