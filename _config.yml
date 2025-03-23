@@ -81,7 +81,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: center
         title: Wendy's
         link: https://shorturl.at/iawnC
         # link_text: boringcompany.com
@@ -92,15 +92,15 @@ content:
         #description: | # this will include new lines to allow paragraphs
           #Every company needs its networks properly administered, and The Boring Company is no exception. Digging holes is hard, but I play my part ensuring that the whole company stays connected. I lead a team of 5 people and enjoy driving the company to explore new technologies.
 
-      - layout: left
+      - layout: center
         title: Wendy's
         link: https://shorturl.at/xJEqc 
-        sub_title: 
+        sub_title: Interim Store Manager
         caption:  February 2022- December 2022
         location: >
           5212 Spring Valley Rd., Dallas Texas
-        description: |
-          Worked on various IT infrastructure projects, managing systems, and ensuring security compliance.
+        #description: |
+        #  Worked on various IT infrastructure projects, managing systems, and ensuring security compliance.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
