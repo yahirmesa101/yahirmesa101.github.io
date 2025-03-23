@@ -77,37 +77,44 @@ content:
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way of learning <mark>React</mark> and it has since grown into a fully-fledged app. I have learned many skills through this, and I'm very proud of having this in my portfolio. If you don't have a project as awesome as this, I would advise you to make one.
-
   - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: center
-        title: Wendy's
-        link: https://shorturl.at/iawnC
-        # link_text: boringcompany.com
-        sub_title: Assistant Manager
-        caption: January 2020 - Present
-        Location: >
-           352 Motor Parkway,Hauppauge, New York
-        Qoute:
-          "El éxito es la suma de pequeños esfuerzos repetidos día tras día." – Anónimo 
-        Translation: 
-          "Success is the sum of small efforts repeated day after day." - Anonymous
-        description: | # this will include new lines to allow paragraphs
-          As an Assistant Manager at Wendy’s, I played a key role in ensuring smooth day-to-day operations. From leading a team during peak hours to optimizing workflows for efficiency, I focused on delivering excellent customer service and maintaining a positive work environment. I was responsible for training new employees, managing inventory, and ensuring compliance with company policies—all while keeping the team motivated and engaged.
-      - layout: center
-        title: Wendy's
-        link: https://shorturl.at/xJEqc 
-        sub_title: Interim Store Manager
-        caption:  February 2022- December 2022
-        location: >
-          5212 Spring Valley Rd., Dallas Texas
-        Qoute:
-          "El éxito no es la clave de la felicidad. La felicidad es la clave del éxito. Si amas lo que haces, tendrás éxito."
-        Translation: 
-          "Success is not the key to happiness. Happiness is the key to success. If you love what you do, you will succeed."
-        description: |
-          Stepping into the role of Interim Store Manager, I took on greater responsibilities, overseeing the entire store’s performance. I managed scheduling, handled financial reports, and led the team through high-volume shifts while maintaining operational excellence. My focus was on improving team dynamics, increasing customer satisfaction, and streamlining processes to drive sales and efficiency. This experience reinforced my leadership skills and ability to adapt in a fast-paced, customer-driven environment.
+  layout: list # Type of content section (list/text)
+  content:
+    - layout: center
+      title: Wendy's
+      link: https://shorturl.at/iawnC
+      sub_title: Assistant Manager
+      caption: January 2020 - Present
+      location: >
+        352 Motor Parkway, Hauppauge, New York
+      quote: >
+        "El éxito es la suma de pequeños esfuerzos repetidos día tras día." – Anónimo  
+      translation: >
+        "Success is the sum of small efforts repeated day after day." – Anonymous  
+      description: | # This allows new lines for readability
+        As an Assistant Manager at Wendy’s, I played a key role in ensuring smooth day-to-day operations.  
+        From leading a team during peak hours to optimizing workflows for efficiency, I focused on delivering excellent customer service and maintaining a positive work environment.  
+        My responsibilities included training new employees, managing inventory, and ensuring compliance with company policies—all while keeping the team motivated and engaged.  
+
+    - layout: center
+      title: Wendy's
+      link: https://shorturl.at/xJEqc
+      sub_title: Interim Store Manager
+      caption: February 2022 - December 2022
+      location: >
+        5212 Spring Valley Rd., Dallas, Texas
+      quote: >
+        "El éxito no es la clave de la felicidad. La felicidad es la clave del éxito.  
+        Si amas lo que haces, tendrás éxito." – Anónimo  
+      translation: >
+        "Success is not the key to happiness. Happiness is the key to success.  
+        If you love what you do, you will succeed." – Anonymous  
+      description: |  
+        As an Interim Store Manager, I took on greater responsibilities, overseeing the store’s overall performance.  
+        I managed scheduling, financial reporting, and led the team through high-volume shifts while maintaining operational excellence.  
+        My focus was on enhancing team dynamics, increasing customer satisfaction, and streamlining processes to drive sales and efficiency.  
+        This role strengthened my leadership skills and adaptability in a fast-paced, customer-driven environment.  
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
