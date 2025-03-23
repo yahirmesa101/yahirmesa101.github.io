@@ -78,8 +78,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way of learning <mark>React</mark> and it has since grown into a fully-fledged app. I have learned many skills through this, and I'm very proud of having this in my portfolio. If you don't have a project as awesome as this, I would advise you to make one.
   - title: Experience # Title for the section
-  layout: list # Type of content section (list/text)
-  content:
+    layout: list # Type of content section (list/text)
+    content:
     - layout: center
       title: Wendy's
       link: https://shorturl.at/iawnC
