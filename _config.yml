@@ -82,23 +82,23 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Wendy's
+        link: https://locations.wendys.com/united-states/ny/hauppauge/527-route-111
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by digging holes and making game-changing products like the *not a flamethrower*.
-        description: | # this will include new lines to allow paragraphs
-          Every company needs its networks properly administered, and The Boring Company is no exception. Digging holes is hard, but I play my part ensuring that the whole company stays connected. I lead a team of 5 people and enjoy driving the company to explore new technologies.
+        sub_title: Assistant Manager
+        caption: January 2020 - Present
+        Location: >
+           527 Route 111,Hauppauge, New York    
+        #description: | # this will include new lines to allow paragraphs
+          #Every company needs its networks properly administered, and The Boring Company is no exception. Digging holes is hard, but I play my part ensuring that the whole company stays connected. I lead a team of 5 people and enjoy driving the company to explore new technologies.
 
       - layout: left
-        title: Another Company
-        link: anothercompany.com
-        sub_title: IT Specialist
-        caption: January 2015 - October 2017
-        quote: >
-          Optimizing IT infrastructure to improve business efficiency.
+        title: Wendy's
+        link: https://locations.wendys.com/united-states/tx/dallas/5215-spring-valley-rd?utm_source=Yext&utm_medium=Google_My_Business&utm_campaign=Local_Search&utm_content=EN_US
+        sub_title: 
+        caption:  February 2022- December 2022
+        location: >
+          5212 Spring Valley Rd., Dallas Texas
         description: |
           Worked on various IT infrastructure projects, managing systems, and ensuring security compliance.
 
