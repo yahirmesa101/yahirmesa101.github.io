@@ -32,7 +32,7 @@ darkmode: false
 # Additional icon links
 additional_links:
 - title: tiktok.com
-  icon: fa fa-tiktok
+  icon: assets/images/tiktok-brands.svg
   url: https://www.tiktok.com/@andersonmesa2004
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
