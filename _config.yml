@@ -71,6 +71,29 @@ content:
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: The Boring Company
+        link: boringcompany.com
+      # link_text: boringcompany.com
+        sub_title: Senior Network System Administrator
+        caption: November 2017 - Present
+        quote: >
+          Solving 21st century problems by digging holes and making game-changing products like the *not a flamethrower*.
+        description: | # this will include new lines to allow paragraphs
+          Every company needs its networks properly administered, and The Boring Company is no exception. Digging holes...
+
+    - layout: left
+      title: Another Company
+      link: anothercompany.com
+      sub_title: IT Specialist
+      caption: January 2015 - October 2017
+      quote: >
+        Optimizing IT infrastructure to improve business efficiency.
+      description: |
+        Worked on various IT infrastructure projects, managing systems, and ensuring security compliance.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
