@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   Currently, I am working on transitioning into other markets, leveraging my proven expertise in inventory control, merchandising, and client relationship management. I am passionate about creating memorable shopping experiences that drive revenue growth and foster brand loyalty.
 
   I am most skilled in:
-  - <mark>AWS</mark>
+  - <mark>Managing Teams</mark>
   - <mark>Eating Pizza</mark>
 
   I believe in the power of teamwork, and I thrive in environments where innovation and collaboration are encouraged.
@@ -88,10 +88,13 @@ content:
         sub_title: Assistant Manager
         caption: January 2020 - Present
         Location: >
-           352 Motor Parkway,Hauppauge, New York    
-        #description: | # this will include new lines to allow paragraphs
-          #Every company needs its networks properly administered, and The Boring Company is no exception. Digging holes is hard, but I play my part ensuring that the whole company stays connected. I lead a team of 5 people and enjoy driving the company to explore new technologies.
-
+           352 Motor Parkway,Hauppauge, New York
+        Qoute:
+          "El éxito es la suma de pequeños esfuerzos repetidos día tras día." – Anónimo 
+        Translation: 
+          "Success is the sum of small efforts repeated day after day." - Anonymous
+        description: | # this will include new lines to allow paragraphs
+          As an Assistant Manager at Wendy’s, I played a key role in ensuring smooth day-to-day operations. From leading a team during peak hours to optimizing workflows for efficiency, I focused on delivering excellent customer service and maintaining a positive work environment. I was responsible for training new employees, managing inventory, and ensuring compliance with company policies—all while keeping the team motivated and engaged.
       - layout: center
         title: Wendy's
         link: https://shorturl.at/xJEqc 
@@ -99,9 +102,12 @@ content:
         caption:  February 2022- December 2022
         location: >
           5212 Spring Valley Rd., Dallas Texas
-        #description: |
-        #  Worked on various IT infrastructure projects, managing systems, and ensuring security compliance.
-
+        Qoute:
+          "El éxito no es la clave de la felicidad. La felicidad es la clave del éxito. Si amas lo que haces, tendrás éxito."
+        Translation: 
+          "Success is not the key to happiness. Happiness is the key to success. If you love what you do, you will succeed."
+        description: |
+          Stepping into the role of Interim Store Manager, I took on greater responsibilities, overseeing the entire store’s performance. I managed scheduling, handled financial reports, and led the team through high-volume shifts while maintaining operational excellence. My focus was on improving team dynamics, increasing customer satisfaction, and streamlining processes to drive sales and efficiency. This experience reinforced my leadership skills and ability to adapt in a fast-paced, customer-driven environment.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
