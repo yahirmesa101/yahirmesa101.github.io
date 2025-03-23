@@ -115,31 +115,27 @@ content:
         My focus was on enhancing team dynamics, increasing customer satisfaction, and streamlining processes to drive sales and efficiency.  
         This role strengthened my leadership skills and adaptability in a fast-paced, customer-driven environment.  
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard, I learned most of the key skills that have carried me through my career, such as teamwork and working to tight deadlines. I thoroughly enjoyed my time at university and learned a lot about maintaining a healthy work-life balance.
+  ###- title: Education # Title for the section
+    #layout: list # Type of content section (list/text)
+    #content:
+      #- layout: left
+        #title: Harvard University
+        #caption: 2010 - 2013
+        #sub_title: BSc Computer Science
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        #description: | # this will include new lines to allow paragraphs
+        #  During my time at Harvard, I learned most of the key skills that have carried me through my career, such as teamwork and working to tight deadlines. I thoroughly enjoyed my time at university and learned a lot about maintaining a healthy work-life balance.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club*, taking on roles such as *Trip Secretary* and *Vice-President*.
-
+        #  I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club*, taking on roles such as *Trip Secretary* and *Vice-President*.
+    
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering, some of my other interests and hobbies include:
-      - Rock climbing
+      Alongside my interests in People Management and Business Development, some of my other interests and hobbies include:
+      - Web Development
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      - Cooking
 
 # Footer
 footer_show_references: true
